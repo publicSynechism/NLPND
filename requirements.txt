@@ -1,0 +1,14 @@
+beautifulsoup4
+html5lib
+h5py
+ipython
+jupyter
+Keras
+matplotlib
+numpy
+nltk
+pandas
+requests
+scikit-learn
+tensorflow
+wordcloud
